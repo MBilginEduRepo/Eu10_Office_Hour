@@ -4,6 +4,6 @@ public class Variables {
 
     public static void main(String[] args) {
 
-        int circle = 500;
+        int circle = 50;
     }
 }
