@@ -40,6 +40,12 @@ public class StringPractice {
         System.out.println(5 + "5" + 5);  // 555
         System.out.println(5 + 5 + "5");  // 105
 
+        String letter = "B";
+        int num = 1;
+        System.out.println(letter + num);
+
+        boolean question = false;
+
 
     }
 
