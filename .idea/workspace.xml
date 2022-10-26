@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="variable changed">
-      <change afterPath="$PROJECT_DIR$/src/week2/Variables.java" afterDir="false" />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week2 is added.">
+      <change afterPath="$PROJECT_DIR$/src/week2/StringPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Variables">
+  <component name="RunManager" selected="Application.StringPractice">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Eu10_Office_Hour" />
@@ -55,6 +56,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.StringPractice" />
+      <module name="Eu10_Office_Hour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringPractice" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.PrintPractice" />
         <item itemvalue="Application.Main" />
@@ -95,7 +110,7 @@
       <workItem from="1666350070136" duration="2197000" />
       <workItem from="1666687849999" duration="7352000" />
       <workItem from="1666804397582" duration="8000" />
-      <workItem from="1666804413376" duration="2028000" />
+      <workItem from="1666804413376" duration="5115000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -132,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666689348613</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="week2 is added.">
+      <created>1666806559558</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666806559558</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +173,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="variable changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="variable changed" />
+    <MESSAGE value="week2 is added." />
+    <option name="LAST_COMMIT_MESSAGE" value="week2 is added." />
   </component>
 </project>

@@ -60,6 +60,12 @@ public class Variables {
         System.out.println(watsonSalary);
         System.out.println(mikeSalary);
 
+        int numberOfEmployee = 10;
+
+        // This is Java rule that we have to OBEY.
+
+        int thisIsJavaRuleThatWeHaveToObey;
+
 
     }
 }
