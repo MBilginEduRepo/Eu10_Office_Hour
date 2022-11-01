@@ -65,6 +65,7 @@ public class Variables {
         // This is Java rule that we have to OBEY.
 
         int thisIsJavaRuleThatWeHaveToObey;
+        //
 
 
     }
