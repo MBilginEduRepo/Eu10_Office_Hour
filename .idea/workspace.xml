@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="string  is added." />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="string  is added.">
+      <change afterPath="$PROJECT_DIR$/src/week3/ArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/CastingPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/UnaryOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,10 +43,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringPractice">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.UnaryOperators">
+    <configuration name="ArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.ArithmeticOperators" />
       <module name="Eu10_Office_Hour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UnaryOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.UnaryOperators" />
+      <module name="Eu10_Office_Hour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.Variables" />
       <module name="Eu10_Office_Hour" />
@@ -87,10 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UnaryOperators" />
+        <item itemvalue="Application.ArithmeticOperators" />
         <item itemvalue="Application.StringPractice" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.PrintPractice" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +133,9 @@
       <workItem from="1666804397582" duration="8000" />
       <workItem from="1666804413376" duration="5523000" />
       <workItem from="1667213088785" duration="21000" />
-      <workItem from="1667336958086" duration="320000" />
+      <workItem from="1667336958086" duration="3326000" />
+      <workItem from="1667373886825" duration="15000" />
+      <workItem from="1667408371156" duration="2882000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -173,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667337012586</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="string  is added.">
+      <created>1667372532511</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667372532511</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
