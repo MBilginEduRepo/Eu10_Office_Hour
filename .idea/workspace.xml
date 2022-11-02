@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 3 first push">
-      <change afterPath="$PROJECT_DIR$/src/week3/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/RelationalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/ShortHandPractice.java" afterDir="false" />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 3 second push">
+      <change afterPath="$PROJECT_DIR$/src/week3/PrecedencePractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LogicalOperators">
+  <component name="RunManager" selected="Application.PrecedencePractice">
     <configuration name="ArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week3.ArithmeticOperators" />
       <module name="Eu10_Office_Hour" />
@@ -59,6 +57,19 @@
     </configuration>
     <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week3.LogicalOperators" />
+      <module name="Eu10_Office_Hour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrecedencePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.PrecedencePractice" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
@@ -96,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.Variables" />
-      <module name="Eu10_Office_Hour" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrecedencePractice" />
         <item itemvalue="Application.LogicalOperators" />
         <item itemvalue="Application.UnaryOperators" />
         <item itemvalue="Application.ArithmeticOperators" />
         <item itemvalue="Application.StringPractice" />
-        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +133,7 @@
       <workItem from="1667213088785" duration="21000" />
       <workItem from="1667336958086" duration="3326000" />
       <workItem from="1667373886825" duration="15000" />
-      <workItem from="1667408371156" duration="5355000" />
+      <workItem from="1667408371156" duration="6477000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -214,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667411537549</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="week 3 second push">
+      <created>1667414190907</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667414190907</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +241,7 @@
     <MESSAGE value="week2 is added." />
     <MESSAGE value="string  is added." />
     <MESSAGE value="week 3 first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 3 first push" />
+    <MESSAGE value="week 3 second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 3 second push" />
   </component>
 </project>
