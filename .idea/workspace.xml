@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 3 second push">
-      <change afterPath="$PROJECT_DIR$/src/week3/PrecedencePractice.java" afterDir="false" />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 3 third push">
+      <change afterPath="$PROJECT_DIR$/src/week4/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/MultiBranchIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/SingleIf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +45,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrecedencePractice">
-    <configuration name="ArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.ArithmeticOperators" />
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.LogicalOperators" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
@@ -55,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.LogicalOperators" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.Practice" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3.*" />
+          <option name="PATTERN" value="week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.StringPractice" />
+    <configuration name="SingleIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.SingleIf" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.*" />
+          <option name="PATTERN" value="week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.SingleIf" />
         <item itemvalue="Application.PrecedencePractice" />
         <item itemvalue="Application.LogicalOperators" />
         <item itemvalue="Application.UnaryOperators" />
-        <item itemvalue="Application.ArithmeticOperators" />
-        <item itemvalue="Application.StringPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +137,9 @@
       <workItem from="1667213088785" duration="21000" />
       <workItem from="1667336958086" duration="3326000" />
       <workItem from="1667373886825" duration="15000" />
-      <workItem from="1667408371156" duration="6477000" />
+      <workItem from="1667408371156" duration="6793000" />
+      <workItem from="1667918841874" duration="17000" />
+      <workItem from="1668016501024" duration="2854000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -219,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667414190907</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="week 3 third push">
+      <created>1667415452919</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667415452919</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +255,7 @@
     <MESSAGE value="string  is added." />
     <MESSAGE value="week 3 first push" />
     <MESSAGE value="week 3 second push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 3 second push" />
+    <MESSAGE value="week 3 third push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 3 third push" />
   </component>
 </project>
