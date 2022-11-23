@@ -8,8 +8,9 @@ public class ForPractice {
 //        practice1();
 //        practice2();
 //        practice3();
-        practice4();
-
+//        practice4();
+//practice5();
+practice6();
     }
 
     // count from 0 to 10;
@@ -52,5 +53,33 @@ public class ForPractice {
             System.out.println("*".repeat(i));
         }
     }
+
+    /*
+          1 8
+        222 5
+      33333 3
+    4444444 1
+  555555555 0
+
+     */
+
+    public static void practice5(){
+        for (int i = 0; i < 5; i++) {
+            System.out.println(" ".repeat(9-i*2+1) + String.valueOf(i+1).repeat(i*2+1));
+        }
+    }
+
+    // reverse a string
+    // home   --> emoh
+    public static void practice6(){
+        String data = "laptop";
+        String result = "";
+        for (int i = data.length()-1; i >=0 ; i--) {
+            result += data.charAt(i);
+        }
+        System.out.println("result = " + result);
+    }
+
+
 }
 
