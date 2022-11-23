@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 6 first push">
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 6 second push">
+      <change afterPath="$PROJECT_DIR$/src/week6/NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/NestedLoopsPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6/WhilePractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6/WhilePractices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
       <recent name="week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WhilePractices">
+  <component name="RunManager" selected="Application.NestedLoopsPractice">
     <configuration name="ForPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week5.ForPractice" />
       <module name="Eu10_Office_Hour" />
@@ -60,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.ScannerClass" />
+    <configuration name="NestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.NestedLoops" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4.*" />
+          <option name="PATTERN" value="week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.ScannerPractice" />
+    <configuration name="NestedLoopsPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.NestedLoopsPractice" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4.*" />
+          <option name="PATTERN" value="week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NestedLoopsPractice" />
+        <item itemvalue="Application.NestedLoops" />
         <item itemvalue="Application.WhilePractices" />
         <item itemvalue="Application.ForPractice" />
         <item itemvalue="Application.StringPractice" />
-        <item itemvalue="Application.ScannerPractice" />
-        <item itemvalue="Application.ScannerClass" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +145,7 @@
       <workItem from="1668621275611" duration="5964000" />
       <workItem from="1669059155932" duration="761000" />
       <workItem from="1669126864297" duration="401000" />
-      <workItem from="1669225340644" duration="6463000" />
+      <workItem from="1669225340644" duration="7512000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -272,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669229343098</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="week 6 second push">
+      <created>1669232210908</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669232210908</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +309,7 @@
     <MESSAGE value="week 5 first push" />
     <MESSAGE value="week 5 second push" />
     <MESSAGE value="week 6 first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 6 first push" />
+    <MESSAGE value="week 6 second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 6 second push" />
   </component>
 </project>
