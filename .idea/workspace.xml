@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 5 second push">
-      <change afterPath="$PROJECT_DIR$/src/week6/WhilePractices.java" afterDir="false" />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 6 first push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/ForPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/ForPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6/WhilePractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6/WhilePractices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +144,7 @@
       <workItem from="1668621275611" duration="5964000" />
       <workItem from="1669059155932" duration="761000" />
       <workItem from="1669126864297" duration="401000" />
-      <workItem from="1669225340644" duration="3543000" />
+      <workItem from="1669225340644" duration="6463000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -266,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668628127688</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="week 6 first push">
+      <created>1669229343098</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1669229343098</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,6 +300,7 @@
     <MESSAGE value="week 4 second push" />
     <MESSAGE value="week 5 first push" />
     <MESSAGE value="week 5 second push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 5 second push" />
+    <MESSAGE value="week 6 first push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 6 first push" />
   </component>
 </project>
