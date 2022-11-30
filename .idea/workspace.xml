@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 7 frist push">
-      <change afterPath="$PROJECT_DIR$/src/week7/ForEachLoopIntro.java" afterDir="false" />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 7 second push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/ArraysPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/ArraysPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/MultiDimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/MultiDimensionalArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <recent name="week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForEachLoopIntro">
+  <component name="RunManager" selected="Application.MultiDimensionalArrays">
     <configuration name="ArraysIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week7.ArraysIntro" />
       <module name="Eu10_Office_Hour" />
@@ -88,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week6.NestedLoops" />
+    <configuration name="MultiDimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week7.MultiDimensionalArrays" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week6.*" />
+          <option name="PATTERN" value="week7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiDimensionalArrays" />
         <item itemvalue="Application.ForEachLoopIntro" />
         <item itemvalue="Application.ArraysPractice" />
         <item itemvalue="Application.ArraysIntro" />
         <item itemvalue="Application.NestedLoopsPractice" />
-        <item itemvalue="Application.NestedLoops" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +147,7 @@
       <workItem from="1669126864297" duration="401000" />
       <workItem from="1669225340644" duration="7800000" />
       <workItem from="1669617026192" duration="275000" />
-      <workItem from="1669831225916" duration="4776000" />
+      <workItem from="1669831225916" duration="6068000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -297,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669833937177</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="week 7 second push">
+      <created>1669836687542</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1669836687542</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,6 +335,7 @@
     <MESSAGE value="week 6 second push" />
     <MESSAGE value="week 6 third push" />
     <MESSAGE value="week 7 frist push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 7 frist push" />
+    <MESSAGE value="week 7 second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 7 second push" />
   </component>
 </project>
