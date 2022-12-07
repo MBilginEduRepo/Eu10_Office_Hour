@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 8 first push">
-      <change afterPath="$PROJECT_DIR$/src/week8/CustomMethods.java" afterDir="false" />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 8 second push">
+      <change afterPath="$PROJECT_DIR$/src/week8/CustomMethodPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/MultiDArraysPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/MultiDArraysPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week8/CustomMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/CustomMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +48,13 @@
       <recent name="week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CustomMethods">
-    <configuration name="ArraysPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week7.ArraysPractice" />
+  <component name="RunManager" selected="Application.CustomMethodPractice">
+    <configuration name="CustomMethodPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week8.CustomMethodPractice" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week7.*" />
+          <option name="PATTERN" value="week8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomMethodPractice" />
         <item itemvalue="Application.CustomMethods" />
         <item itemvalue="Application.MultiDArraysPractice" />
         <item itemvalue="Application.MultiDimensionalArrays" />
         <item itemvalue="Application.ForEachLoopIntro" />
-        <item itemvalue="Application.ArraysPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,7 @@
       <workItem from="1669617026192" duration="275000" />
       <workItem from="1669831225916" duration="6190000" />
       <workItem from="1670221626880" duration="1950000" />
-      <workItem from="1670435516934" duration="3200000" />
+      <workItem from="1670435516934" duration="6282000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -320,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670435963793</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="week 8 second push">
+      <created>1670438748259</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1670438748259</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,6 +362,7 @@
     <MESSAGE value="week 7 second push" />
     <MESSAGE value="week 7 third push" />
     <MESSAGE value="week 8 first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 8 first push" />
+    <MESSAGE value="week 8 second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 8 second push" />
   </component>
 </project>
