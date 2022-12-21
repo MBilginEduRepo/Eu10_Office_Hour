@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 9 second push">
-      <change beforePath="$PROJECT_DIR$/src/week9/WrapperClassMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week9/WrapperClassMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/ArrayListPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,20 @@
       <recent name="week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WrapperClassMethods">
+  <component name="RunManager" selected="Application.ArrayListPractice">
+    <configuration name="ArrayListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.ArrayListPractice" />
+      <module name="Eu10_Office_Hour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CustomMethodPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week8.CustomMethodPractice" />
       <module name="Eu10_Office_Hour" />
@@ -86,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiDimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week7.MultiDimensionalArrays" />
-      <module name="Eu10_Office_Hour" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WrapperClassMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week9.WrapperClassMethods" />
       <module name="Eu10_Office_Hour" />
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListPractice" />
         <item itemvalue="Application.WrapperClassMethods" />
         <item itemvalue="Application.CustomMethodPractice" />
         <item itemvalue="Application.CustomMethods" />
         <item itemvalue="Application.MultiDArraysPractice" />
-        <item itemvalue="Application.MultiDimensionalArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +151,7 @@
       <workItem from="1670221626880" duration="1950000" />
       <workItem from="1670435516934" duration="6503000" />
       <workItem from="1671523430488" duration="1083000" />
-      <workItem from="1671645241999" duration="2611000" />
+      <workItem from="1671645241999" duration="4855000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -348,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671647776640</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="week 9 second push">
+      <created>1671648224016</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1671648224016</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
