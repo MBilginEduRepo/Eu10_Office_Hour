@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 8 third push">
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 9 first push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week9/WrapperClassMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week9/WrapperClassMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
       <recent name="week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CustomMethodPractice">
+  <component name="RunManager" selected="Application.WrapperClassMethods">
     <configuration name="CustomMethodPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week8.CustomMethodPractice" />
       <module name="Eu10_Office_Hour" />
@@ -66,19 +67,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForEachLoopIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week7.ForEachLoopIntro" />
-      <module name="Eu10_Office_Hour" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WrapperClassMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.WrapperClassMethods" />
+      <module name="Eu10_Office_Hour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WrapperClassMethods" />
         <item itemvalue="Application.CustomMethodPractice" />
         <item itemvalue="Application.CustomMethods" />
         <item itemvalue="Application.MultiDArraysPractice" />
         <item itemvalue="Application.MultiDimensionalArrays" />
-        <item itemvalue="Application.ForEachLoopIntro" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +151,7 @@
       <workItem from="1670221626880" duration="1950000" />
       <workItem from="1670435516934" duration="6503000" />
       <workItem from="1671523430488" duration="1083000" />
+      <workItem from="1671645241999" duration="2269000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -333,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670442289269</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="week 9 first push">
+      <created>1671645436222</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1671645436222</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,6 +379,7 @@
     <MESSAGE value="week 8 first push" />
     <MESSAGE value="week 8 second push" />
     <MESSAGE value="week 8 third push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 8 third push" />
+    <MESSAGE value="week 9 first push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 9 first push" />
   </component>
 </project>
