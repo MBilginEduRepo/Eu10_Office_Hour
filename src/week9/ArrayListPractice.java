@@ -8,7 +8,10 @@ public class ArrayListPractice {
 
 //        one();
 //        two();
-        three();
+//        three();
+//        four();
+//        five();
+        six();
     }
 
     //1.Write a Java program that creates an ArrayList of strings and then adds five strings to the list.
@@ -81,4 +84,57 @@ public class ArrayListPractice {
 
 //    4.Write a Java program that creates an ArrayList of 10 random integers between 1 and 100,
 //    and then sorts the list in ascending order.
+
+    public static void four(){
+        ArrayList<Integer> randomNumbers = new ArrayList<>();
+        Random random = new Random();
+        for (int i = 0; i < 10; i++) {
+            randomNumbers.add(random.nextInt(100));
+        }
+
+        System.out.println(randomNumbers);
+        Collections.sort(randomNumbers);
+        System.out.println(randomNumbers);
+    }
+
+    //5. Write a Java program that creates an ArrayList of strings
+    // and adds five strings to the list. The program   should then reverse
+    // the order of the elements in the list and print the resulting list to the console.
+
+    public static void five(){
+        ArrayList<String> list = new ArrayList<>();
+        list.add("Java");
+        list.add("python");
+        list.add("selenium");
+        list.add("c++");
+        list.add("api");
+
+        System.out.println(list);
+
+        Collections.reverse(list);
+        System.out.println(list);
+    }
+
+//    6. Write a Java program that creates an ArrayList of integers and
+//    adds 10 random integers to the list. The program should then find
+//    the smallest and largest elements in the list and print them to the console.
+
+    public static void six(){
+        ArrayList<Integer> nums = new ArrayList<>();
+        Random random = new Random();
+        for (int i = 0; i < 10; i++) {
+            nums.add(random.nextInt(100));
+        }
+        System.out.println(nums);
+
+        int max = Collections.max(nums);
+        int min = Collections.min(nums);
+
+        System.out.println("max = " + max);
+        System.out.println("min = " + min);
+
+    }
+
+
+
 }
