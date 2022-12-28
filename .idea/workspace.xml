@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 10 first push">
-      <change afterPath="$PROJECT_DIR$/src/week10/customClass/Movies.java" afterDir="false" />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 10 second push">
+      <change afterPath="$PROJECT_DIR$/src/week10/constructors/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/constructors/ApplicationObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/constructors/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/constructors/HouseObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/constructors/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/constructors/PhoneObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/constructors/TVShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/constructors/TvShowsObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week10/customClass/BookObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week10/customClass/BookObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week10/customClass/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week10/customClass/Products.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +54,13 @@
       <recent name="week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BookObject">
-    <configuration name="ArrayListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week9.ArrayListPractice" />
+  <component name="RunManager" selected="Application.ApplicationObject">
+    <configuration name="ApplicationObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week10.constructors.ApplicationObject" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week9.*" />
+          <option name="PATTERN" value="week10.constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomMethodPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.CustomMethodPractice" />
+    <configuration name="HouseObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week10.constructors.HouseObject" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week8.*" />
+          <option name="PATTERN" value="week10.constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.CustomMethods" />
+    <configuration name="PhoneObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week10.constructors.PhoneObject" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week8.*" />
+          <option name="PATTERN" value="week10.constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperClassMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week9.WrapperClassMethods" />
+    <configuration name="TvShowsObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week10.constructors.TvShowsObject" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week9.*" />
+          <option name="PATTERN" value="week10.constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ApplicationObject" />
+        <item itemvalue="Application.TvShowsObject" />
+        <item itemvalue="Application.PhoneObject" />
+        <item itemvalue="Application.HouseObject" />
         <item itemvalue="Application.BookObject" />
-        <item itemvalue="Application.ArrayListPractice" />
-        <item itemvalue="Application.WrapperClassMethods" />
-        <item itemvalue="Application.CustomMethodPractice" />
-        <item itemvalue="Application.CustomMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +159,7 @@
       <workItem from="1670435516934" duration="6503000" />
       <workItem from="1671523430488" duration="1083000" />
       <workItem from="1671645241999" duration="6312000" />
-      <workItem from="1672246101849" duration="2780000" />
+      <workItem from="1672246101849" duration="6164000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -380,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672252210977</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="week 10 second push">
+      <created>1672253117445</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1672253117445</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,6 +434,7 @@
     <MESSAGE value="week 9 third push" />
     <MESSAGE value="week 9 forth push" />
     <MESSAGE value="week 10 first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 10 first push" />
+    <MESSAGE value="week 10 second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 10 second push" />
   </component>
 </project>
