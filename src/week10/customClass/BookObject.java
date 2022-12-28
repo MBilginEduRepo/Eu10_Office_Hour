@@ -2,6 +2,7 @@ package week10.customClass;
 
 public class BookObject {
 
+
     public static void main(String[] args) {
 
         Books sapiens = new Books();
@@ -26,6 +27,19 @@ public class BookObject {
 
         p1.setName();
         System.out.println(p1.name);
+
+        p1.setPrice(10.0);
+        System.out.println(p1.price);
+
+
+        System.out.println("******** movies ***************");
+        Movies m1 = new Movies();
+        m1.getTitle();
+
+        m1.setTitle("Top Gun");
+        m1.setDirector("Johnson");
+        m1.movieInfo();
+
 
     }
 }

@@ -11,5 +11,11 @@ public class Products {
         name = "hammer";
     }
 
+    public void setPrice(double newPrice){
+        price = newPrice;
+    }
+
+
+
 
 }
