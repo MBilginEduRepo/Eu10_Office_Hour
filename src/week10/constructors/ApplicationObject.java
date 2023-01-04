@@ -10,7 +10,7 @@ public class ApplicationObject {
         Application app2 = new Application("Youtube","10.3");
         System.out.println(app2);
 
-        Application app3 = new Application("Appium","2.9","Tom  ");
+        Application app3 = new Application("Appium","2.9","Tom");
         System.out.println(app3);
     }
 }
