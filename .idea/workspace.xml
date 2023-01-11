@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 11 second push">
-      <change afterPath="$PROJECT_DIR$/src/week12/encapsulation/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week12/encapsulation/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week12/encapsulation/BookInfo.java" afterDir="false" />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 12 first push">
+      <change afterPath="$PROJECT_DIR$/src/week12/encapsulation/Books.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week12/encapsulation/BookInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week12/encapsulation/BookInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <recent name="week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ApplicationObject">
+  <component name="RunManager" selected="Application.Books">
     <configuration name="ApplicationObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week10.constructors.ApplicationObject" />
       <module name="Eu10_Office_Hour" />
@@ -63,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week10.customClass.BookObject" />
+    <configuration name="Books" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.encapsulation.Books" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week10.customClass.*" />
+          <option name="PATTERN" value="week12.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Books" />
         <item itemvalue="Application.ApplicationObject" />
         <item itemvalue="Application.TvShowsObject" />
         <item itemvalue="Application.PhoneObject" />
         <item itemvalue="Application.HouseObject" />
-        <item itemvalue="Application.BookObject" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +156,7 @@
       <workItem from="1672246101849" duration="6218000" />
       <workItem from="1672759483749" duration="380000" />
       <workItem from="1672853341457" duration="6268000" />
-      <workItem from="1673463355585" duration="1638000" />
+      <workItem from="1673463355585" duration="2832000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -418,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672861337324</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="week 12 first push">
+      <created>1673465297603</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1673465297603</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,7 +442,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week 3 first push" />
     <MESSAGE value="week 3 second push" />
     <MESSAGE value="week 3 third push" />
     <MESSAGE value="week 4 first push" />
@@ -461,6 +466,7 @@
     <MESSAGE value="week 10 third push" />
     <MESSAGE value="week 11 first push" />
     <MESSAGE value="week 11 second push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 11 second push" />
+    <MESSAGE value="week 12 first push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 12 first push" />
   </component>
 </project>
