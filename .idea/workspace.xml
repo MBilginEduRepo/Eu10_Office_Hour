@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 11 first push">
-      <change afterPath="$PROJECT_DIR$/src/week11/accessModifiers/AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week11/accessModifiers/AccessModifiersObjects.java" afterDir="false" />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 11 second push">
+      <change afterPath="$PROJECT_DIR$/src/week12/encapsulation/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/encapsulation/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/encapsulation/BookInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +156,8 @@
       <workItem from="1671645241999" duration="6312000" />
       <workItem from="1672246101849" duration="6218000" />
       <workItem from="1672759483749" duration="380000" />
-      <workItem from="1672853341457" duration="5914000" />
+      <workItem from="1672853341457" duration="6268000" />
+      <workItem from="1673463355585" duration="1638000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -409,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672857844256</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="week 11 second push">
+      <created>1672861337324</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1672861337324</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,7 +436,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string  is added." />
     <MESSAGE value="week 3 first push" />
     <MESSAGE value="week 3 second push" />
     <MESSAGE value="week 3 third push" />
@@ -452,6 +460,7 @@
     <MESSAGE value="week 10 second push" />
     <MESSAGE value="week 10 third push" />
     <MESSAGE value="week 11 first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 11 first push" />
+    <MESSAGE value="week 11 second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 11 second push" />
   </component>
 </project>
