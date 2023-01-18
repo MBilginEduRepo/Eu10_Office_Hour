@@ -8,4 +8,11 @@ public class MethodOverriding extends Movies {
     public MethodOverriding(String name, String type, String director) {
         super(name, type, director);
     }
+
+    public void play(){
+        System.out.println("This movie is directed by " + director);
+//        genre = "horor";
+    }
+
+
 }

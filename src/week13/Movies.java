@@ -6,14 +6,19 @@ public class Movies {
     String type;
     String director;
 
+    final String genre = "Action";
+
     public Movies(String name, String type, String director) {
         this.name = name;
         this.type = type;
         this.director = director;
     }
 
+
+
     public void play(){
         System.out.println("Now playing " + name);
+//        genre = "Horror";
     }
 
     @Override
