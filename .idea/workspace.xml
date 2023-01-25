@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 14 first push">
-      <change afterPath="$PROJECT_DIR$/src/week14/abstraction/Properties.java" afterDir="false" />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 14 second push">
+      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/ED/AirConditioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/ED/ElectronicDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/ED/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/ED/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/hospital/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/hospital/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/hospital/Nurse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/hospital/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -47,7 +55,7 @@
       <recent name="week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionsPractice">
+  <component name="RunManager" selected="Application.week14.polymorphism.hospital.Practice">
     <configuration name="ApplicationObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week10.constructors.ApplicationObject" />
       <module name="Eu10_Office_Hour" />
@@ -87,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week10.constructors.PhoneObject" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week14.polymorphism.ED.Practice" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week10.constructors.*" />
+          <option name="PATTERN" value="week14.polymorphism.ED.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TvShowsObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week10.constructors.TvShowsObject" />
+    <configuration name="week14.polymorphism.hospital.Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week14.polymorphism.hospital.Practice" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week10.constructors.*" />
+          <option name="PATTERN" value="week14.polymorphism.hospital.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.week14.polymorphism.hospital.Practice" />
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.ExceptionsPractice" />
         <item itemvalue="Application.Books" />
         <item itemvalue="Application.ApplicationObject" />
-        <item itemvalue="Application.TvShowsObject" />
-        <item itemvalue="Application.PhoneObject" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +167,7 @@
       <workItem from="1674065063895" duration="6213000" />
       <workItem from="1674077908601" duration="25000" />
       <workItem from="1674587778127" duration="646000" />
-      <workItem from="1674669062373" duration="2782000" />
+      <workItem from="1674669062373" duration="5897000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -469,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674671973199</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="week 14 second push">
+      <created>1674672502744</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1674672502744</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +502,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week 5 second push" />
     <MESSAGE value="week 6 first push" />
     <MESSAGE value="week 6 second push" />
     <MESSAGE value="week 6 third push" />
@@ -512,6 +526,7 @@
     <MESSAGE value="week 13 second push" />
     <MESSAGE value="week 13 third push" />
     <MESSAGE value="week 14 first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 14 first push" />
+    <MESSAGE value="week 14 second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 14 second push" />
   </component>
 </project>
