@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 14 second push">
-      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/ED/AirConditioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/ED/ElectronicDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/ED/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/ED/Television.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/hospital/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/hospital/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/hospital/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/polymorphism/hospital/Practice.java" afterDir="false" />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 14 third push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week14/polymorphism/hospital/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week14/polymorphism/hospital/Practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +160,9 @@
       <workItem from="1674065063895" duration="6213000" />
       <workItem from="1674077908601" duration="25000" />
       <workItem from="1674587778127" duration="646000" />
-      <workItem from="1674669062373" duration="5897000" />
+      <workItem from="1674669062373" duration="6074000" />
+      <workItem from="1674730267673" duration="71000" />
+      <workItem from="1676416876614" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -484,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674672502744</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="week 14 third push">
+      <created>1674675712540</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1674675712540</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week 6 first push" />
     <MESSAGE value="week 6 second push" />
     <MESSAGE value="week 6 third push" />
     <MESSAGE value="week 7 frist push" />
@@ -527,6 +528,7 @@
     <MESSAGE value="week 13 third push" />
     <MESSAGE value="week 14 first push" />
     <MESSAGE value="week 14 second push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 14 second push" />
+    <MESSAGE value="week 14 third push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 14 third push" />
   </component>
 </project>

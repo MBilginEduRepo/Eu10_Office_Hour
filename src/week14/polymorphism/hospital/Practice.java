@@ -8,7 +8,7 @@ public class Practice {
 
 
     public static void main(String[] args) {
-        Employee employee = new Employee();
+//        Employee employee = new Employee();
         Employee employee1 = nurse;  // upcasting
 
         Nurse nurse2 = (Nurse)employee1;   //down casting
