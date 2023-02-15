@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 15 is created">
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 15 first push">
+      <change afterPath="$PROJECT_DIR$/src/week15/MapPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week15/CollectionPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week15/CollectionPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,20 +56,7 @@
       <recent name="week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionPractice">
-    <configuration name="Books" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week12.encapsulation.Books" />
-      <module name="Eu10_Office_Hour" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week12.encapsulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MapPractice">
     <configuration name="CollectionPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week15.CollectionPractice" />
       <module name="Eu10_Office_Hour" />
@@ -89,6 +76,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week15.MapPractice" />
+      <module name="Eu10_Office_Hour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapPractice" />
         <item itemvalue="Application.CollectionPractice" />
         <item itemvalue="Application.week14.polymorphism.hospital.Practice" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.ExceptionsPractice" />
-        <item itemvalue="Application.Books" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,7 @@
       <workItem from="1674669062373" duration="6074000" />
       <workItem from="1674730267673" duration="71000" />
       <workItem from="1676416876614" duration="21000" />
-      <workItem from="1676483662133" duration="2929000" />
+      <workItem from="1676483662133" duration="4893000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -502,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676483845075</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="week 15 first push">
+      <created>1676486974001</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1676486974001</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week 6 third push" />
     <MESSAGE value="week 7 frist push" />
     <MESSAGE value="week 7 second push" />
     <MESSAGE value="week 7 third push" />
@@ -545,6 +551,7 @@
     <MESSAGE value="week 14 second push" />
     <MESSAGE value="week 14 third push" />
     <MESSAGE value="week 15 is created" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 15 is created" />
+    <MESSAGE value="week 15 first push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 15 first push" />
   </component>
 </project>
