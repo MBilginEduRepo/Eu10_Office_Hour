@@ -10,11 +10,14 @@ public class MapPractice {
 
     public static void one() {
 
+        Gender genderMale = Gender.MALE;
+        Gender genderFemale = Gender.FEMALE;
+
         Map<String, Object> fruits = new HashMap<>();
         fruits.put("apple", 7);
         fruits.put("banana", 5);
         fruits.put("grape", 2.5);
-        fruits.put("orange", "out of stock");
+        fruits.put("orange", fruits);
 
         System.out.println(fruits);
         System.out.println(fruits.get("grape"));

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 15 first push">
-      <change afterPath="$PROJECT_DIR$/src/week15/MapPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 15 second push">
+      <change beforePath="$PROJECT_DIR$/src/week15/MapPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week15/MapPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +170,7 @@
       <workItem from="1674669062373" duration="6074000" />
       <workItem from="1674730267673" duration="71000" />
       <workItem from="1676416876614" duration="21000" />
-      <workItem from="1676483662133" duration="4893000" />
+      <workItem from="1676483662133" duration="5209000" />
     </task>
     <task id="LOCAL-00001" summary="variable changed">
       <created>1666351213090</created>
@@ -509,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676486974001</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="week 15 second push">
+      <created>1676489540715</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1676489540715</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +533,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week 7 frist push" />
     <MESSAGE value="week 7 second push" />
     <MESSAGE value="week 7 third push" />
     <MESSAGE value="week 8 first push" />
@@ -552,6 +557,7 @@
     <MESSAGE value="week 14 third push" />
     <MESSAGE value="week 15 is created" />
     <MESSAGE value="week 15 first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 15 first push" />
+    <MESSAGE value="week 15 second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 15 second push" />
   </component>
 </project>
