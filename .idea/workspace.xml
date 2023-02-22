@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 15 third push">
-      <change afterPath="$PROJECT_DIR$/src/week16/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week16/TestFunctionalInterface.java" afterDir="false" />
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 16 first push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week16/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week16/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,14 +173,7 @@
       <workItem from="1674730267673" duration="71000" />
       <workItem from="1676416876614" duration="21000" />
       <workItem from="1676483662133" duration="5884000" />
-      <workItem from="1677088621476" duration="1349000" />
-    </task>
-    <task id="LOCAL-00002" summary="variable changed">
-      <created>1666352215934</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1666352215934</updated>
+      <workItem from="1677088621476" duration="2653000" />
     </task>
     <task id="LOCAL-00003" summary="variable changed">
       <created>1666687871126</created>
@@ -519,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676490143030</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="week 16 first push">
+      <created>1677090173577</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1677090173577</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +536,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week 7 third push" />
     <MESSAGE value="week 8 first push" />
     <MESSAGE value="week 8 second push" />
     <MESSAGE value="week 8 third push" />
@@ -562,6 +560,7 @@
     <MESSAGE value="week 15 first push" />
     <MESSAGE value="week 15 second push" />
     <MESSAGE value="week 15 third push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 15 third push" />
+    <MESSAGE value="week 16 first push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 16 first push" />
   </component>
 </project>
