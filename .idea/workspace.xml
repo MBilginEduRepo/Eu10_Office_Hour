@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 16 first push">
+    <list default="true" id="878dd6a2-03ef-46d3-a544-2662b5484dad" name="Changes" comment="week 16 second push">
+      <change afterPath="$PROJECT_DIR$/src/week16/StreamPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week16/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week16/Test.java" afterDir="false" />
     </list>
@@ -57,7 +58,7 @@
       <recent name="week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.StreamPractice">
     <configuration name="CollectionPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week15.CollectionPractice" />
       <module name="Eu10_Office_Hour" />
@@ -84,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week14.polymorphism.ED.Practice" />
+    <configuration name="StreamPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week16.StreamPractice" />
       <module name="Eu10_Office_Hour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week14.polymorphism.ED.*" />
+          <option name="PATTERN" value="week16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamPractice" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.MapPractice" />
         <item itemvalue="Application.CollectionPractice" />
         <item itemvalue="Application.week14.polymorphism.hospital.Practice" />
-        <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -173,14 +174,7 @@
       <workItem from="1674730267673" duration="71000" />
       <workItem from="1676416876614" duration="21000" />
       <workItem from="1676483662133" duration="5884000" />
-      <workItem from="1677088621476" duration="2653000" />
-    </task>
-    <task id="LOCAL-00003" summary="variable changed">
-      <created>1666687871126</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1666687871126</updated>
+      <workItem from="1677088621476" duration="5830000" />
     </task>
     <task id="LOCAL-00004" summary="variable changed">
       <created>1666688231701</created>
@@ -518,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677090173577</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="week 16 second push">
+      <created>1677091467244</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1677091467244</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,7 +537,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week 8 first push" />
     <MESSAGE value="week 8 second push" />
     <MESSAGE value="week 8 third push" />
     <MESSAGE value="week 9 first push" />
@@ -561,6 +561,7 @@
     <MESSAGE value="week 15 second push" />
     <MESSAGE value="week 15 third push" />
     <MESSAGE value="week 16 first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 16 first push" />
+    <MESSAGE value="week 16 second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 16 second push" />
   </component>
 </project>
